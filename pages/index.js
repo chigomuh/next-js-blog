@@ -23,8 +23,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           안녕!~
-          <br />난 지금 굉장히 기분이 좋아 왜 실행이 안될까 과연?? 해결 했다
-          ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
+          <br />난 지금 굉장히 슬프다 왜 실행이 안될까 과연?? 해결 했다
+          ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 좋아용
         </p>
         <p>
           (Next.js는 다 좋은데 왜 내 노트북 환경에서는 fast refresh가 안될까?
